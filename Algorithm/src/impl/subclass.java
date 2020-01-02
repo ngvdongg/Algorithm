@@ -9,7 +9,7 @@ public class subclass extends superclass{
 		System.out.println("sub");
 	}
 	void action() {
-		System.out.println("asdfasdf");
+		System.out.println("DongNV13fsd");
 		int a;
 	}
 	void testRepo() {
