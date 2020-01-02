@@ -8,7 +8,9 @@ public class subclass extends superclass{
 	protected void run(int a, double b) throws RuntimeException{
 		System.out.println("sub");
 	}
-	void action() {}
+	void action() {
+		System.out.println("asdfasdf");
+	}
 	void testRepo() {
 		System.out.println("DongNV13");
 	}
