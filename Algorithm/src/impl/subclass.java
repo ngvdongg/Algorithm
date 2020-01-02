@@ -12,4 +12,7 @@ public class subclass extends superclass{
 	void testRepo() {
 		System.out.println("DongNV13");
 	}
+	void testRepo2() {
+		System.out.println("DongNV13123");
+	}
 }
